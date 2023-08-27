@@ -1,4 +1,4 @@
-# <a href="https://hamzalagramez.github.io" target="_blank">hamzalagramez.github.io</a>
+# <a href="https://hamzalgz.github.io/" target="_blank">hamzalgz.github.io</a>
 
 My personal website portfolio built using the template of <a href="https://github.com/smaranjitghose/awesome-portfolio-websites" target="_blank">awesome-portfolio-websites</a>.
 
