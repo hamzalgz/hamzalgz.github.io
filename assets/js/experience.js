@@ -5,10 +5,23 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Data Scientist: DATA SCIENTIST",
+    cardImage: "./assets/images/experience-page/attijariwafa.png",
+    place: "Attijariwafa Bank",
+    time: "(Jul 2023 - Present)",
+    desp: `
+    <ul>
+    <li><b>building chatbots for attijariwafa bank Used: Rasa open source, postman, docker, Kubernetes. OpenShift, jenkins CI, Argo CD, Harbor, Git, Gitlab, jira, PostgreSQL.</b>.</li>
+    <li>building models for NLP Used: PyTorch, TensorFlow, HuggingFace, Transformers.</li>
+    <li>Experience in evaluating, fine-tuning, and deploying Large Language Models (LLM) in production environments.</li>
+    </ul>
+    `,
+  },
+  {
     title: "Computer Vision Engineer: Computer Vision in Retail and Logistics",
     cardImage: "./assets/images/experience-page/e-marocwave.png",
     place: "E-Maroc Wave",
-    time: "(Dec 2022 - Present)",
+    time: "(Dec 2022 - Jul 2023)",
     desp: `
     <ul>
     <li><b>building model that can detect and count sold products in a supermarket based on cameras using <b>pytorch, opencv, Hikvision, Yolov7</b>.</li>
@@ -114,6 +127,12 @@ document.addEventListener("DOMContentLoaded", showCards1);
 
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
+  {
+    title: "Rasa Developer Certification, 2024",
+    cardImage:
+      "./assets/images/experience-page/rasa.png",
+    description: "Rasa Developer Certification.",
+  },
   {
     title: "IBM Big Data Engineer, 2022",
     cardImage:
