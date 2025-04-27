@@ -5,7 +5,7 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Data Scientist: DATA SCIENTIST",
+    title: "Data Scientist: building Chatbots",
     cardImage: "./assets/images/experience-page/attijariwafa.png",
     place: "Attijariwafa Bank",
     time: "(Jul 2023 - Present)",
